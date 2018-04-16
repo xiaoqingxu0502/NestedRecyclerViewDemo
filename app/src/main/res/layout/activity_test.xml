@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.hujin.nestedrecyclerviewdemo.view.ParentViewGroup
+        android:id="@+id/pvg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </com.example.hujin.nestedrecyclerviewdemo.view.ParentViewGroup>
+
+</RelativeLayout>
